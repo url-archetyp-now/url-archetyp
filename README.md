@@ -60,4 +60,6 @@ This resource is for educational purposes only. The information provided is desi
 
 
 
-Update:  16 June 2025 Just checked, the link is working fine now!
+
+
+Update: Link validation
