@@ -62,4 +62,6 @@ This resource is for educational purposes only. The information provided is desi
 
 
 
-Update: Link validation
+
+
+Update: Guys, the link is live again, please verify.
