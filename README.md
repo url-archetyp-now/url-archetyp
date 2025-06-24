@@ -66,4 +66,6 @@ This resource is for educational purposes only. The information provided is desi
 
 
 
-Update:  06/23/2025 url is now functioning and operational
+
+
+Update: I'm pleased to announce that the link is back up.
