@@ -68,4 +68,6 @@ This resource is for educational purposes only. The information provided is desi
 
 
 
-Update: I'm pleased to announce that the link is back up.
+
+
+Update:  26.06.2025 08:41 Fixed url
