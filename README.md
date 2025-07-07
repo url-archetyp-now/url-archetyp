@@ -72,4 +72,6 @@ This resource is for educational purposes only. The information provided is desi
 
 
 
-Update:  04.07.2025 Sprite URLs
+
+
+Update: Fixed broken url, now accessible
