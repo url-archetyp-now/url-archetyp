@@ -76,4 +76,6 @@ This resource is for educational purposes only. The information provided is desi
 
 
 
-Update:  14.07.2025
+
+
+Update:  18.07.2025 14:50:11 link is operational
